@@ -1,3 +1,9 @@
+{
+    "cSpell.words": [
+        "officedocument",
+        "openxmlformats",
+        "spreadsheetml"
+    ]
+}
 streamlit
 pandas
-openpyxl
